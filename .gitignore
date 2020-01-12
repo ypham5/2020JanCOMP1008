@@ -1,14 +1,6 @@
 
-# Created by https://www.gitignore.io/api/macos,adobe,windows
-# Edit at https://www.gitignore.io/?templates=macos,adobe,windows
-
-### Adobe ###
-# Adobe Source Files
-*.psd
-*.ai
-*.indd
-*.prproj
-*.aep
+# Created by https://www.gitignore.io/api/macos,windows
+# Edit at https://www.gitignore.io/?templates=macos,windows
 
 ### macOS ###
 # General
@@ -64,4 +56,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.gitignore.io/api/macos,adobe,windows
+# End of https://www.gitignore.io/api/macos,windows
